@@ -1,0 +1,1 @@
+Landing page, elaborata utilizando recursos de HTML5 e CSS3, com proposito de treinar alguns recursos existentes.
